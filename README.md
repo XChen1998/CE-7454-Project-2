@@ -1,4 +1,4 @@
-# Experiment Results - CE-7454-Project 2
+# Experiment Results - Flash RAG
 
 This repository contains the experimental results detailed in the project report. The experiments are based on **Flash RAG**.
 
@@ -8,3 +8,7 @@ This repository contains the experimental results detailed in the project report
 - Key parameters:
   - `model_path`: Specifies the model used.
   - `index_path`: Indicates the corpus size for the experiments.
+
+## Access to Original Codes
+
+The original codes are available upon request to any of the authors.
